@@ -1,6 +1,5 @@
 # EXERCÍCIO DE JAVA POO
 
-
 ---
 # :pushpin: Índece
 - [Projeto](#-Projeto)
