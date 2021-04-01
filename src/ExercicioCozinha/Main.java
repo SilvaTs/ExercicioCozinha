@@ -20,7 +20,7 @@ class Main {
         System.out.println("-------------------------------------------------------");
         System.out.println("");
 
-       cozinhaChineza(); 
+       cozinhaChinesa(); 
 
     }
 
@@ -50,7 +50,7 @@ class Main {
         cozinhaItaliana.ListaDosIngredientesDosPrato();
     }
     
-     private static void cozinhaChineza() {
+     private static void cozinhaChinesa() {
 
         Cozinha cozinhaChinesa = new CozinhaChinesa();
         cozinhaChinesa.addFuncionario(new Funcionario("Daniela", "Cozinheira 3"));
